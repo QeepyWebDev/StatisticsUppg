@@ -1,0 +1,20 @@
+Dessa förkodade lösningar används i koden:
+Json.NET (Newtonsoft.Json) - för serialisering och deserialisering
+System.IO - för skrivande och läsande av filer, ger tillgång till metoder som "File.ReadAllText()".
+LINQ - för metoder som "Max()" och "Where()"
+System.Math - för matematiska funktioner, t.ex. "Math.Sqrt()"
+Array.Sort() och Array.Reverse() - för sorterande av element i en array.
+
+I "Maximum()", "Minimum()" och "Range()" metoderna används Array.Sort vilket är onödigt i detta fall då man endast vill få fram högsta och minsta värdet samt variationsbredd.
+Jag skulle istället använda en foreach loop som går igenom värdena och håller koll på minsta och högsta värde 
+som sparas i varsina variabler och sedan uppdateras om ett högre/lägre värde hittas.
+
+Pseudokoden för Maximum() kan exempelvis se ut på detta vis:
+
+int max equals to the first integer in array
+foreach (integer in array)
+{
+if value is larger than max, update max to current value
+}
+
+Detta skulle förbättra applikationens prestanda då sortering är mer krävande särskilt om det är en större array och även spara på minnesanvänding då sorteringsalgoritmer brukar behöva mer minne för temporärt bruk.
