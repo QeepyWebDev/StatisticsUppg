@@ -1,0 +1,45 @@
+D:\C#23RättningInlämning\TheGroupProject\bin\Debug\net8.0\Statistics.exe
+D:\C#23RättningInlämning\TheGroupProject\bin\Debug\net8.0\Statistics.deps.json
+D:\C#23RättningInlämning\TheGroupProject\bin\Debug\net8.0\Statistics.runtimeconfig.json
+D:\C#23RättningInlämning\TheGroupProject\bin\Debug\net8.0\Statistics.dll
+D:\C#23RättningInlämning\TheGroupProject\bin\Debug\net8.0\Statistics.pdb
+D:\C#23RättningInlämning\TheGroupProject\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\C#23RättningInlämning\TheGroupProject\obj\Debug\net8.0\Statistics.csproj.AssemblyReference.cache
+D:\C#23RättningInlämning\TheGroupProject\obj\Debug\net8.0\Statistics.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#23RättningInlämning\TheGroupProject\obj\Debug\net8.0\Statistics.AssemblyInfoInputs.cache
+D:\C#23RättningInlämning\TheGroupProject\obj\Debug\net8.0\Statistics.AssemblyInfo.cs
+D:\C#23RättningInlämning\TheGroupProject\obj\Debug\net8.0\Statistics.csproj.CoreCompileInputs.cache
+D:\C#23RättningInlämning\TheGroupProject\obj\Debug\net8.0\Statistics.sourcelink.json
+D:\C#23RättningInlämning\TheGroupProject\obj\Debug\net8.0\Statistics.csproj.CopyComplete
+D:\C#23RättningInlämning\TheGroupProject\obj\Debug\net8.0\Statistics.dll
+D:\C#23RättningInlämning\TheGroupProject\obj\Debug\net8.0\refint\Statistics.dll
+D:\C#23RättningInlämning\TheGroupProject\obj\Debug\net8.0\Statistics.pdb
+D:\C#23RättningInlämning\TheGroupProject\obj\Debug\net8.0\Statistics.genruntimeconfig.cache
+D:\C#23RättningInlämning\TheGroupProject\obj\Debug\net8.0\ref\Statistics.dll
+D:\C#23RättningInlämning\Statistics\obj\Debug\net8.0\Statistics.csproj.AssemblyReference.cache
+D:\C#23RättningInlämning\Statistics\obj\Debug\net8.0\Statistics.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#23RättningInlämning\Statistics\obj\Debug\net8.0\Statistics.AssemblyInfoInputs.cache
+D:\C#23RättningInlämning\Statistics\obj\Debug\net8.0\Statistics.AssemblyInfo.cs
+D:\C#23RättningInlämning\Statistics\obj\Debug\net8.0\Statistics.csproj.CoreCompileInputs.cache
+D:\C#23RättningInlämning\Statistics\obj\Debug\net8.0\Statistics.sourcelink.json
+D:\C#23RättningInlämning\Statistics\obj\Debug\net8.0\Statistics.dll
+D:\C#23RättningInlämning\Statistics\obj\Debug\net8.0\refint\Statistics.dll
+D:\C#23RättningInlämning\Statistics\obj\Debug\net8.0\Statistics.pdb
+C:\Users\kleop\OneDrive\Desktop\School Projects\Individuell uppgift\Statistics\obj\Debug\net8.0\Statistics.csproj.AssemblyReference.cache
+C:\Users\kleop\OneDrive\Desktop\School Projects\Individuell uppgift\Statistics\obj\Debug\net8.0\Statistics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kleop\OneDrive\Desktop\School Projects\Individuell uppgift\Statistics\obj\Debug\net8.0\Statistics.AssemblyInfoInputs.cache
+C:\Users\kleop\OneDrive\Desktop\School Projects\Individuell uppgift\Statistics\obj\Debug\net8.0\Statistics.AssemblyInfo.cs
+C:\Users\kleop\OneDrive\Desktop\School Projects\Individuell uppgift\Statistics\obj\Debug\net8.0\Statistics.csproj.CoreCompileInputs.cache
+C:\Users\kleop\OneDrive\Desktop\School Projects\Individuell uppgift\Statistics\obj\Debug\net8.0\Statistics.sourcelink.json
+C:\Users\kleop\OneDrive\Desktop\School Projects\Individuell uppgift\Statistics\obj\Debug\net8.0\Statistics.dll
+C:\Users\kleop\OneDrive\Desktop\School Projects\Individuell uppgift\Statistics\obj\Debug\net8.0\refint\Statistics.dll
+C:\Users\kleop\OneDrive\Desktop\School Projects\Individuell uppgift\Statistics\obj\Debug\net8.0\Statistics.pdb
+C:\Users\kleop\OneDrive\Desktop\School Projects\Individuell uppgift\Statistics\bin\Debug\net8.0\Statistics.exe
+C:\Users\kleop\OneDrive\Desktop\School Projects\Individuell uppgift\Statistics\bin\Debug\net8.0\Statistics.deps.json
+C:\Users\kleop\OneDrive\Desktop\School Projects\Individuell uppgift\Statistics\bin\Debug\net8.0\Statistics.runtimeconfig.json
+C:\Users\kleop\OneDrive\Desktop\School Projects\Individuell uppgift\Statistics\bin\Debug\net8.0\Statistics.dll
+C:\Users\kleop\OneDrive\Desktop\School Projects\Individuell uppgift\Statistics\bin\Debug\net8.0\Statistics.pdb
+C:\Users\kleop\OneDrive\Desktop\School Projects\Individuell uppgift\Statistics\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\kleop\OneDrive\Desktop\School Projects\Individuell uppgift\Statistics\obj\Debug\net8.0\Statistics.csproj.CopyComplete
+C:\Users\kleop\OneDrive\Desktop\School Projects\Individuell uppgift\Statistics\obj\Debug\net8.0\Statistics.genruntimeconfig.cache
+C:\Users\kleop\OneDrive\Desktop\School Projects\Individuell uppgift\Statistics\obj\Debug\net8.0\ref\Statistics.dll
