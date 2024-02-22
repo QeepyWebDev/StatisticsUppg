@@ -1,0 +1,14 @@
+C:\Users\kleop\OneDrive\Desktop\School Projects\C# Programs\Inlämning\bin\Debug\net8.0\Inlämning.exe
+C:\Users\kleop\OneDrive\Desktop\School Projects\C# Programs\Inlämning\bin\Debug\net8.0\Inlämning.deps.json
+C:\Users\kleop\OneDrive\Desktop\School Projects\C# Programs\Inlämning\bin\Debug\net8.0\Inlämning.runtimeconfig.json
+C:\Users\kleop\OneDrive\Desktop\School Projects\C# Programs\Inlämning\bin\Debug\net8.0\Inlämning.dll
+C:\Users\kleop\OneDrive\Desktop\School Projects\C# Programs\Inlämning\bin\Debug\net8.0\Inlämning.pdb
+C:\Users\kleop\OneDrive\Desktop\School Projects\C# Programs\Inlämning\obj\Debug\net8.0\Inlämning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kleop\OneDrive\Desktop\School Projects\C# Programs\Inlämning\obj\Debug\net8.0\Inlämning.AssemblyInfoInputs.cache
+C:\Users\kleop\OneDrive\Desktop\School Projects\C# Programs\Inlämning\obj\Debug\net8.0\Inlämning.AssemblyInfo.cs
+C:\Users\kleop\OneDrive\Desktop\School Projects\C# Programs\Inlämning\obj\Debug\net8.0\Inlämning.csproj.CoreCompileInputs.cache
+C:\Users\kleop\OneDrive\Desktop\School Projects\C# Programs\Inlämning\obj\Debug\net8.0\Inlämning.dll
+C:\Users\kleop\OneDrive\Desktop\School Projects\C# Programs\Inlämning\obj\Debug\net8.0\refint\Inlämning.dll
+C:\Users\kleop\OneDrive\Desktop\School Projects\C# Programs\Inlämning\obj\Debug\net8.0\Inlämning.pdb
+C:\Users\kleop\OneDrive\Desktop\School Projects\C# Programs\Inlämning\obj\Debug\net8.0\Inlämning.genruntimeconfig.cache
+C:\Users\kleop\OneDrive\Desktop\School Projects\C# Programs\Inlämning\obj\Debug\net8.0\ref\Inlämning.dll
